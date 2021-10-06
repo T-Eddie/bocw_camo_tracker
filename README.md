@@ -1,3 +1,3 @@
-# bocw_camouflages_tracker
+# bocw_camo_tracker
 
 Testing github :) 
